@@ -8,7 +8,7 @@ namespace Observador
     {
         public void Actualiza()
         {
-            Console.WriteLine("Ejecutando Compilador");
+            Console.WriteLine("Compilación de código correcta");
         }
     }
 }

@@ -14,7 +14,7 @@ namespace Observador
                 cRespuesta = Console.ReadLine();
                 switch (cRespuesta) {
                     case "1":
-                        Console.WriteLine("codigo subido");
+                        Console.WriteLine("Commit de código de la versión 1.1");
                         publicador.Notificar();
                         break;
                     case "2":

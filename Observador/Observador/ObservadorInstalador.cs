@@ -8,7 +8,7 @@ namespace Observador
     {
         public void Actualiza()
         {
-            Console.WriteLine("Ejecutando Instalador");
+            Console.WriteLine("Se ha instalado la versión 1.1");
         }
     }
 }

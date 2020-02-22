@@ -8,7 +8,7 @@ namespace Observador
     {
         public void Actualiza()
         {
-            Console.WriteLine("Ejecutando Prueba");
+            Console.WriteLine("Todas las pruebas unitarias fueron exitosas");
         }
     }
 }

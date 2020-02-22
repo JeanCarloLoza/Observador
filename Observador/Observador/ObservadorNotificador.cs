@@ -8,7 +8,7 @@ namespace Observador
     {
         public void Actualiza()
         {
-            Console.WriteLine("Ejecutando notificador");
+            Console.WriteLine("Existe una actualización de código: Versión 1.1");
         }
     }
 }
